@@ -1,119 +1,104 @@
 # Mi0034
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Developer+%7C+Security+Researcher;Infrastructure+%7C+AI+%7C+Threat+Intelligence" />
-</p>
+Developer · Security Researcher · Infrastructure Builder
 
-<p align="center">
-  <a href="https://github.com/klopiop">
-    <img src="https://img.shields.io/github/followers/klopiop?label=Followers&style=flat-square" />
-  </a>
-  <a href="https://github.com/klopiop">
-    <img src="https://img.shields.io/github/stars/klopiop?affiliations=OWNER&style=flat-square" />
-  </a>
-</p>
+I build software, infrastructure and security systems, with a focus on **Cyber Security**, **Threat Intelligence**, **Information Retrieval** and **AI**.
+
+* Working across backend, frontend, systems and DevOps
+* Interested in security research, threat intelligence and information retrieval
+* Building and maintaining infrastructure, platforms and automation systems
+* Exploring AI-assisted development and intelligent security systems
 
 ---
 
-## About Me
-
-I'm a developer and security researcher interested in building software, infrastructure and security systems.
-
-My work spans from low-level infrastructure to application development, with a particular interest in **Threat Intelligence**, **Information Retrieval**, **Cyber Security** and **AI**.
-
-```text
-Developer
-├── Backend
-├── Frontend
-├── System
-└── DevOps
-
-Research
-├── Cyber Security
-├── Threat Intelligence
-├── Information Retrieval
-└── AI / NLP
-
-Infrastructure
-├── Linux
-├── Docker
-├── Virtualization
-├── Networking
-└── Storage
-```
-
----
-
-## Tech Stack
-
-### Languages
+## Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,go,python,java,php,javascript,typescript,bash,powershell" />
+  <img src="https://skillicons.dev/icons?i=python,go,java,php,nodejs,mysql,redis,postgresql" />
 </p>
 
-### Backend & Frontend
+## Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,go,java,php,nodejs,react,nextjs,html,css,javascript,typescript" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs" />
 </p>
 
-### DevOps & Infrastructure
+## DevOps
 
 <p>
   <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx,git,github,gitlab,bash,powershell" />
 </p>
 
-### Database & Storage
+## Security
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,redis,postgresql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=kali,linux,bash,docker,git" />
 </p>
 
-### Security
+* Network Security
+* Web Security
+* Vulnerability Research
+* Penetration Testing
+* CTF / Attack & Defense
+* Threat Intelligence
+* Security Automation
 
-```text
-Web Security
-Network Security
-Vulnerability Research
-Threat Intelligence
-Penetration Testing
-CTF / Attack & Defense
-Security Automation
-```
-
-### AI & Data
-
-```text
-Artificial Intelligence
-Natural Language Processing
-Information Retrieval
-Data Processing
-Machine Learning
-AI-assisted Development
-```
-
----
-
-## Tools
+## AI & Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,clion,vim,anaconda,postman" />
+  <img src="https://skillicons.dev/icons?i=python,anaconda,jupyter,pytorch" />
 </p>
 
----
+* Artificial Intelligence
+* Natural Language Processing
+* Information Retrieval
+* Machine Learning
+* Data Processing
+* AI-assisted Development
+
+## Systems & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,ubuntu,nginx,redis,mysql" />
+</p>
+
+* Linux
+* Virtualization
+* Containers
+* Networking
+* Storage
+* Distributed Systems
+* Cloud Infrastructure
+
+## Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,go,python,java,php,javascript,typescript,bash,powershell" />
+</p>
+
+## Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,clion,vim,git,github,gitlab,postman" />
+</p>
 
 ## Currently Exploring
 
 * Threat Intelligence
 * Information Retrieval
 * AI / NLP
-* Security Automation
+* Security Research
+* Infrastructure Automation
 * Distributed Systems
-* Storage Infrastructure
+* Storage
 * Cloud Computing
-* Scalable Systems
 
 ---
 
-<!-- More content below -->
+> Build systems. Understand systems. Secure systems.
+
+<p align="center">
+  <a href="https://github.com/klopiop">
+    <img src="https://komarev.com/ghpvc/?username=klopiop&style=flat-square&color=grey" alt="Profile views" />
+  </a>
+</p>
